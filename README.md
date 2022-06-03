@@ -8,7 +8,7 @@ Gala Gligoroska 171528
 ![Screenshot 2022-06-03 19 19 05](https://user-images.githubusercontent.com/63419322/171914303-79434780-2900-40ad-a30f-4d946f7773a9.png)
 
 
- ![image](https://user-images.githubusercontent.com/63419322/171925694-f79cb934-6410-4fb9-9c61-b4127c949b47.png)
+![image](https://user-images.githubusercontent.com/63419322/171930330-4e275749-d23e-4a1e-b53e-a88412722449.png)
 
 
 
@@ -19,7 +19,7 @@ Gala Gligoroska 171528
   E - edges <br />
   N - nodes <br />
   
-  V(G) = E – N + 2 = 28 - 20 + 2 = 10
+  V(G) = E – N + 2 = 26 - 20 + 2 = 8
   
 
 
