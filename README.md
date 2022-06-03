@@ -20,3 +20,8 @@ Gala Gligoroska 171528
   
   V(G) = E – N + 2 = 29 - 20 + 2 = 11
   
+
+
+4. Every Statement Method
+ ![image](https://user-images.githubusercontent.com/63419322/171921411-3fdb2f5a-bb7f-443d-80d2-f9674b7e243d.png)
+The first test case is the one provided from task 1. Two more test cases were needed to successfully fulfill the Every Statement Method. Test cases 2 and 3 are consistent of inadequate entries. Test case 2 is used to get to node B, test case 3 is used to get to node D.
