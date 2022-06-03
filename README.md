@@ -13,10 +13,10 @@ Gala Gligoroska 171528
 
 3. Cyclomatic complexity 
   
-  G - graph
-  V(G) - cyclomatic complexity
-  E - edges 
-  N - nodes
+  G - graph <br />
+  V(G) - cyclomatic complexity <br />
+  E - edges <br />
+  N - nodes <br />
   
   V(G) = E – N + 2 = 29 - 20 + 2 = 11
   
