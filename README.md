@@ -11,3 +11,12 @@ Gala Gligoroska 171528
  ![image](https://user-images.githubusercontent.com/63419322/171912416-f4ece3a7-eed4-4cb7-b4d2-ea9ee7cd2b41.png)
 
 
+3. Cyclomatic complexity 
+  
+  G - graph
+  V(G) - cyclomatic complexity
+  E - edges 
+  N - nodes
+  
+  V(G) = E – N + 2 = 29 - 20 + 2 = 11
+  
